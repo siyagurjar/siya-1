@@ -1,0 +1,101 @@
+body{
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(10 153 246 / 26%);
+}
+.front{
+}
+.front .small{
+    background-size: cover;
+    height: 780px;
+    margin: 70px 100px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0px 2px 5px #a69f9f;
+}
+.front .small .nav ul{
+    display: flex;
+    justify-content: center;
+}
+.front .small .nav ul li{
+    list-style: none;
+    color: #060a88;
+    font-size: 20px;
+    font-family: math;
+    font-weight: bold;
+    padding: 15px 40px;
+    padding-bottom: 0px;
+}
+.front .small .intro{
+    display: flex;
+    flex-wrap: wrap;
+}
+.front .small .intro .right img{
+    height: 300px;
+    width: 300px;
+    height: 450px;
+    width: 400px;
+    padding-left: 75px;
+    padding-top: 30px;
+}
+.front .small .intro .left{
+    width: 50%;
+}
+.front .small .intro .left h1{
+    font-size: 50px;
+    color: #060a88;
+    padding-top: 30px;
+    padding-left: 100px;
+    font-family: math;
+    margin-bottom: 25px;
+}
+.front .small .intro .left h1 span{
+    color: rgb(0 154 254);
+}
+.front .small .intro .left p{
+    padding-left: 100px;
+    color: #090c5c;
+}
+.front .small .about{
+    display: flex;
+}
+.front .small .about .left{
+    width: 50%;
+}
+.front .small .about .left h2{
+    padding-left: 100px;
+    color: #060a88;
+    font-size: 26px;
+    font-family: math;
+    font-weight: bold;
+}
+.front .small .about .left ul{
+    display: flex;
+    padding-left: 100px;
+    flex-wrap: wrap;
+}
+.front .small .about .left .int{
+    display: flex;
+}
+.front .small .about .left .int .first{
+    padding-left: 0px;
+}
+.front .small .about .left .int .second{
+    padding-left: 0px;
+}
+.front .small .about .left .int ul li{
+    list-style: none;
+    color: #060a88;
+    padding: 10px 20px;
+    font-size: 18px;
+    padding-top: 0px;
+    padding-right: 100px;
+}
+.front .small .about .right h2{
+    padding-left: 100px;
+    color: #060a88;
+    font-size: 26px;
+    font-family: math;
+    font-weight: bold;
+}
